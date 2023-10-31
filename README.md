@@ -11,7 +11,7 @@ El objetivo de nuestro proyecto es hallar los puntos clave del rostro para cada 
 Finalmente obtener como resultado final el Landmark del rostro de cada persona del dataset
 
 ## Arquitectura de Openpose
-![sacado del journal https://arxiv.org/pdf/1812.08008.pdf ](arquitectura openpose.png)
+![sacado del journal https://arxiv.org/pdf/1812.08008.pdf ](arquitectura.png)
 
 ## Resultado esperado para cada paciente
-![Deteccion de 70 puntos clave ](gif rostro.gif)
+![Deteccion de 70 puntos clave ](rostro.gif)
