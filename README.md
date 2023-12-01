@@ -20,17 +20,13 @@ De esta forma cada paciente es grabado en video diciendo multiples palabras, par
 ## Descripcion del proyecto
 
 
-El objetivo de nuestro proyecto es hallar los puntos clave del rostro para cada paciente y clasificarlo como Parkinson o Control, Teniendo encuenta que esta es la primera fase de una tesis de grado se busca para este proyecto replicar y mejorar la arquitectura de Openpose con los metodos vistos en clase.
+El objetivo de nuestro proyecto es hallar los puntos clave del rostro para cada paciente y clasificarlo como Parkinson o Control, Teniendo encuenta que esta es la primera fase de una tesis de grado se busca para este proyecto replicar y mejorar la arquitectura de Mediapipe con los metodos vistos en clase.
 
 
 ## Frase
 Clasificar los moviminetos motores apartir de puntos clave del rostro
 
-## Arquitectura de Openpose
-![sacado del journal https://arxiv.org/pdf/1812.08008.pdf ](arquitectura.png)
 
-## Resultado esperado para cada paciente
-![Deteccion de 70 puntos clave ](rostro.gif)
 
 ## Autores del proyecto
 Faiber Stiven Angarita Mendoza
