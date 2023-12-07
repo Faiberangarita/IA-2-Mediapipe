@@ -26,8 +26,8 @@ Para extraer los landmarks, se utilizó Mediapipe, y las máscaras se clasificar
 ## Frase
 El propósito principal es clasificar los movimientos motores a partir de los puntos clave del rostro.
 
-## Autor del proyecto
-Faiber Stiven Angarita Mendoza
+## Imagen del Proyecto
+![Presentacion](presentacion.pdf)
 
 
 
