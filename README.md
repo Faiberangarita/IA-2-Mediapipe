@@ -1,7 +1,6 @@
-# Proyecto de IA-2 para la predicción de puntos clave del rostro con OpenPose
+# Proyecto de IA-2 - Predicción de puntos clave del rostro 
+![banner](banner.png)
 
-## Autores del proyecto
-Faiber Stiven Angarita Mendoza
 
 ## Objetivo
 El objetivo de este proyecto es identificar los puntos clave del rostro para cada paciente y clasificarlo como Parkinson o Control.
@@ -32,4 +31,5 @@ El propósito principal es clasificar los movimientos motores a partir de los pu
 ## Video
 Link del video https://youtu.be/iV7E-K2hfOk
 
-
+## Autores del proyecto
+Faiber Stiven Angarita Mendoza
